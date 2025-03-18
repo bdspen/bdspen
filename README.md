@@ -1,16 +1,74 @@
-## Hi there 👋
+# Ben Spenard | Full Stack Engineer
 
-<!--
-**bdspen/bdspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spenard)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdspen@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tokenflo.io)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Engineer with 8+ years of experience building scalable applications across automotive, healthcare, telecom, and EV industries. I bring expertise in enterprise UI systems, API & database design, and technical product development.
+
+- 🌟 **Current Focus**: Improving AI prompt efficiency with [TokenFlo.io](https://tokenflo.io)
+- 🔭 **Professional Experience**: From startups to enterprise solutions at Telesign
+- 🌱 **Learning**: AWS Cloud Practitioner, Large Language Models, System Design
+- 💼 **Open to**: Remote full stack opportunities
+
+## 🚀 Key Projects
+
+### [TokenFlo.io](https://tokenflo.io)
+AI prompt optimization platform with three core services:
+- Free prompt optimization to minimize token usage
+- Premium service optimizing prompts for token efficiency while maintaining semantic similarity
+- Enterprise AI prompt monitoring for integration into existing projects *(in development)*
+
+### [Nodemon VS Code Tutorial](https://github.com/bdspen/nodemon_vscode)
+Step-by-step guide for integrating Nodemon into VS Code workflows.
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 🏆 Professional Impact
+
+- **Telesign**: Developed sender ID registration automation that drove $1-2M in recurring revenue
+- **Rooster Park**: Launched surgical instrument management platform in just six weeks
+- **Northstar**: Architected cloud-based sales presentation tool serving 50+ Toyota dealership staff
+- **Halo Automotive**: Built OBD-based vehicle monitoring system for dealership inventory management
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdspen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdspen&layout=compact&theme=radical)
+
+## 🤝 Let's Connect
+
+I'm currently available for new remote full-stack opportunities where I can leverage my experience in web application development, API design, and AI integrations. Let's discuss how I can add value to your team!
+
+[![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/spenard)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdspen@gmail.com)
