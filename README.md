@@ -9,7 +9,7 @@ Full Stack Engineer with 8+ years of experience building scalable applications a
 
 - 🌟 **Current Focus**: (Very early stages) Improving AI prompt efficiency with [TokenFlo.io](https://tokenflo.io)
 - 🔭 **Professional Experience**: From startups to enterprise solutions at Telesign
-- 🌱 **Learning**: AWS Cloud Practitioner, Large Language Models, System Design
+- 🌱 **Learning**: AWS Cloud Practitioner, Large Language Models, Advanced System Design
 - 💼 **Open to**: Remote full stack opportunities
 
 ## 💻 Tech Stack
