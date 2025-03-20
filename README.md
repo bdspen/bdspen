@@ -7,7 +7,7 @@
 
 Full Stack Engineer with 8+ years of experience building scalable applications across automotive, healthcare, telecom, and EV industries. I bring expertise in enterprise UI systems, API & database design, and technical product development.
 
-- 🌟 **Current Focus**: Improving AI prompt efficiency with [TokenFlo.io](https://tokenflo.io)
+- 🌟 **Current Focus**: (Very early stages) Improving AI prompt efficiency with [TokenFlo.io](https://tokenflo.io)
 - 🔭 **Professional Experience**: From startups to enterprise solutions at Telesign
 - 🌱 **Learning**: AWS Cloud Practitioner, Large Language Models, System Design
 - 💼 **Open to**: Remote full stack opportunities
